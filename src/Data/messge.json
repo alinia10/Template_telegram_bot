@@ -1,0 +1,20 @@
+{
+    "message_id": 47,
+    "from": {
+        "id": 842104214,
+        "is_bot": false,
+        "first_name": "Ali",
+        "last_name": "Nia",
+        "username": "alinia10",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 842104214,
+        "first_name": "Ali",
+        "last_name": "Nia",
+        "username": "alinia10",
+        "type": "private"
+    },
+    "date": 1674903496,
+    "text": "M,"
+}
